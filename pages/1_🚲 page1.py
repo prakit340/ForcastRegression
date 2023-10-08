@@ -10,6 +10,7 @@ st.set_page_config(
 st.sidebar.success("เลือกรายการด้านบน.")
 
 st.write("# การพยากรณ์ราคาหุ้น! 👋  🧑🏽‍🏫 ")
+st.write("🌤︎ 🌥︎ 🌦︎ 🌧︎ 🌨︎ 🌩︎ 🌪︎ 🌫︎ 🌬︎ 🌶︎ 🍽︎ 🎖︎ 🎗︎")
 st.write("### 1.หลักการและเหตุผล")
 st.write("### 2.วัตถุประสงค์")
 st.balloons()
